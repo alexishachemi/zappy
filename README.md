@@ -46,7 +46,7 @@ USAGE: ./zappy_server -p port -x width -y height -n name1 name2 ... -c clientsNb
 USAGE: ./zappy_gui -p port -h machine -g graphics
 ```
 ```
-USAGE: ./zappy_ai -p port -n name -h machine -d
+USAGE: ./zappy_ai[_hm] -p port -n name -h machine -d
 ```
 
 ### Development and docs
