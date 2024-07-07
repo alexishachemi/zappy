@@ -10,6 +10,20 @@ The players themselves are not human-controlled, but instead controlled by an AI
 
 Also controlled through the network, is a Graphical user interface (`zappy_gui`), that communicate with the server using a special set of commands.
 
+### AI
+
+Our group made 2 AI instead of the required 1 to introduce multiple strategies:
+
+- Autonomous AI: More focused on itself with a peer-to-peer mentality (zappy_ai).
+- Hivemind AI: Uses a leadership system where one player manages the entire group (zappy_ai_hm).
+
+### GUI
+
+To display the game, we offer a multitude of graphical modes that uses 2 graphicals libraries:
+
+- SFML Graphics: Includes Tile information and 4 different themes.
+- Raylib Graphics: Includes Tile information, camera movement and 2 rendering modes (2D and Isometric).
+
 ### Dependencies
 
 - [CMake](https://cmake.org/)
