@@ -64,19 +64,21 @@ make tests_run
 
 ### Contributors
 
-[<img src="https://avatars.githubusercontent.com/u/84138824?v=4" width="75"/>](https://github.com/alexishachemi)
-[<img src="https://avatars.githubusercontent.com/u/67485955?v=4" width="75"/>](https://github.com/Kuawhrime)
-[<img src="https://avatars.githubusercontent.com/u/103694544?v=4" width="75"/>](https://github.com/martin-vergues)
-[<img src="https://avatars.githubusercontent.com/u/114906179?v=4" width="75"/>](https://github.com/DarkWhige)
-[<img src="https://avatars.githubusercontent.com/u/114910458?v=4" width="75"/>](https://github.com/jauguet)
-[<img src="https://avatars.githubusercontent.com/u/114911283?v=4" width="75"/>](https://github.com/manal67)
+**Server**:
+- [<img src="https://avatars.githubusercontent.com/u/84138824?v=4" width="10"/>](https://github.com/alexishachemi) [Alexis Hachemi](https://github.com/alexishachemi)
+- [<img src="https://avatars.githubusercontent.com/u/114910458?v=4" width="10"/>](https://github.com/jauguet) [Julien Auguet](https://github.com/jauguet)
+- [<img src="https://avatars.githubusercontent.com/u/114911283?v=4" width="10"/>](https://github.com/manal67) [Manal Bahri](https://github.com/manal67)
 
-### Contact
+**Autonomous AI**:
+- [<img src="https://avatars.githubusercontent.com/u/103694544?v=4" width="10"/>](https://github.com/martin-vergues) [Martin Vergues](https://github.com/martin-vergues)
+- [<img src="https://avatars.githubusercontent.com/u/114910458?v=4" width="10"/>](https://github.com/jauguet) [Julien Auguet](https://github.com/jauguet)
 
-For any questions/help about this project, please contact the following contributors depending on the subject:
+**Hivemind AI**:
+- [<img src="https://avatars.githubusercontent.com/u/84138824?v=4" width="10"/>](https://github.com/alexishachemi) [Alexis Hachemi](https://github.com/alexishachemi)
 
-**Server**: [Alexis Hachemi](https://github.com/alexishachemi) at alexis.hachemi@epitech.eu
+**SFML Graphics**:
+- [<img src="https://avatars.githubusercontent.com/u/67485955?v=4" width="10"/>](https://github.com/Kuawhrime) [Karim Mohamed](https://github.com/Kuawhrime)
+- [<img src="https://avatars.githubusercontent.com/u/114906179?v=4" width="10"/>](https://github.com/DarkWhige) [Clément Duboille](https://github.com/DarkWhige)
 
-**GUI**: [Karim Mohamed](https://github.com/Kuawhrime) at karim.mohamed@epitech.eu
-
-**AI**: [Martin Vergues](https://github.com/martin-vergues) at martin.vergues@epitech.eu
+**Raylib Graphics**:
+- [<img src="https://avatars.githubusercontent.com/u/84138824?v=4" width="10"/>](https://github.com/alexishachemi) [Alexis Hachemi](https://github.com/alexishachemi)
