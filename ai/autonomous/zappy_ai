@@ -1,0 +1,12 @@
+#!/bin/bash
+##
+## EPITECH PROJECT, 2024
+## zappy
+## File description:
+## launch script
+##
+
+AI=zappy_ai.py
+AI_PATH=$(find .. -type f -name "zappy_ai.py" -path "*autonomous/*" -exec dirname {} \;)
+cd $AI_PATH
+python3 $AI $@
