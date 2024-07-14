@@ -1,3 +1,5 @@
+<img src="assets/logo.png" width="50"/>
+
 # Zappy
 
 The Zappy is a game where several teams confront each others on a map with the goal of collecting ressources and evolve.
@@ -9,6 +11,8 @@ The game is played through the network, each players connecting to the main serv
 The players themselves are not human-controlled, but instead controlled by an AI (`zappy_ai`).
 
 Also controlled through the network, is a Graphical user interface (`zappy_gui`), that communicate with the server using a special set of commands.
+
+<img src="assets/screenshot.png" width="400"/>
 
 ### AI
 
