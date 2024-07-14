@@ -1,6 +1,7 @@
-<img src="assets/logo.png" width="50"/>
-
-# Zappy
+<img src="assets/logo.png" width="50"/> 
+<h1 style="display: inline">Zappy</h1>
+<br>
+<br>
 
 The Zappy is a game where several teams confront each others on a map with the goal of collecting ressources and evolve.
 
@@ -41,8 +42,9 @@ To display the game, we offer a multitude of graphical modes that uses 2 graphic
 
 You can build the 3 executables using the provided Makefile:
 
+
 ```sh
-make
+mmake
 ```
 
 Additionally, you can build each executable separately using the appropriately named rules:
@@ -51,6 +53,7 @@ Additionally, you can build each executable separately using the appropriately n
 make zappy_server
 make zappy_gui
 make zappy_ai
+
 ```
 
 ### Usage
@@ -64,7 +67,7 @@ USAGE: ./zappy_server -p port -x width -y height -n name1 name2 ... -c clientsNb
 USAGE: ./zappy_gui -p port -h machine -g graphics
 ```
 ```
-USAGE: ./zappy_ai[_hm] -p port -n name -h machine -d
+UUSAGE: ./zappy_ai[_hm] -p port -n name -h machine -d
 ```
 
 ### Development and docs
